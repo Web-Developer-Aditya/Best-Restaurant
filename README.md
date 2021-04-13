@@ -1,4 +1,4 @@
-
+<HTML>
 <head><title></title>
 <style>
  button
@@ -18,3 +18,4 @@
 <a href="Khao Piyo Resturant.html">
 <button>Enter</button></a>
 
+</HTML>
