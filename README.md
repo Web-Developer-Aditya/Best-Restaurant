@@ -13,7 +13,7 @@
 <body>
 <body bgcolor="black">
   <h1><font face="Lato" color="green" size="15"> Welcome in Khao Piyo Resturant
-
+</h1>
 
 <UL><img src="hotel1.jpg" height=100px width=100PX>
 <a href="Khao Piyo Resturant.html">
