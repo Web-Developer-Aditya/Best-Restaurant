@@ -7,12 +7,12 @@
       background-color: orange;
       padding: 40px;
       border-radius: 400px;
-      margin: 500px;
+      margin: 50px;
      }
 </style></head>
 <body>
 <body bgcolor="black">
-  <font face="Lato" color="green" size="15"> Welcome in Khao Piyo Resturant</marquee>
+  <font face="Lato" color="green" size="15"> Welcome in Khao Piyo Resturant
 
 <OL><Li><img src="hotel1.jpg"></OL>
 <a href="Khao Piyo Resturant.html">
