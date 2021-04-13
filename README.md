@@ -11,6 +11,7 @@
       margin: 500px;
      }
 </style></head>
+<body>
 <body bgcolor="black">
 <h1>	
 <marquee behavior="alternate">
