@@ -15,7 +15,7 @@
   <h1><font face="Lato" color="green" size="15"> Welcome in Khao Piyo Resturant
 </h1>
 
-<UL><img src="hotel1.jpg" height=500px width=400px>
+<UL><img src="hotel1.jpg" height=500px width=500px>
 <a href="Khao Piyo Resturant.html">
 <button>Enter</button></a>
 
