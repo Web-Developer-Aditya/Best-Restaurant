@@ -18,4 +18,3 @@
 <UL><img src="hotel1.jpg" height=100px width=100PX>
 <a href="Khao Piyo Resturant.html">
 <button>Enter</button></a>
-
