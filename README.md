@@ -15,7 +15,7 @@
 <body bgcolor="black">
 <h1>	
 <marquee behavior="alternate">
-  <font face="Lato" color="green" size="15"> 	 Welcome in Khao Piyo Resturant</marquee>
+  <font face="Lato" color="green" size="15"> Welcome in Khao Piyo Resturant</marquee>
 </marquee></h1>
 <OL><Li><img src="hotel1.jpg"height=1000 width=500>
 <Li><a href="Khao Piyo Resturant.html">
