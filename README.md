@@ -6,7 +6,7 @@
       font-size: 100px;
       background-color: orange;
       padding: 40px;
-      border-radius: 400px;
+      border-radius: 40px;
       margin: 50px;
      }
 </style></head>
