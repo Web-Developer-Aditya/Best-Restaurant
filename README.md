@@ -1,6 +1,6 @@
 
 ﻿﻿<html>
-<head><title></head>
+<head><title></title></head>
 <style>
  button
     {
