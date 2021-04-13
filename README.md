@@ -1,5 +1,5 @@
 <html>
-<head><title></title></head>
+<head><title></title>
 <style>
  button
     {
