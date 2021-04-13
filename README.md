@@ -1,7 +1,8 @@
+
 ﻿<!DOCTYPE html>
 
 <html>
-
+<head><title>Project Work</title></head>
 <body bgcolor="orange">
 <h1 style="color:red; text-align:center;">KHAO PIYO RESTAURANT</h1>
 
@@ -76,7 +77,13 @@
 <p>
 
 for further enqueies and reservations <a href="contact no.=00000000">contact us </a></p>
-
+<table border="1">
+<th><tr><td>
+Developer-Aditya Pratap Singh</td></th></tr>
+<tr><td>Class-10'A'</tr></td>
+<tr><td>Roll No.-01</tr></td>
+<tr><td>Submission Date-11/9/20</tr></td>
+</table>
 </body>
 
 </html>
