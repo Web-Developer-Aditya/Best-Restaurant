@@ -1,6 +1,3 @@
-
-﻿<!DOCTYPE html>
-
 <html>
 <head><title>Project Work</title></head>
 <body bgcolor="orange">
